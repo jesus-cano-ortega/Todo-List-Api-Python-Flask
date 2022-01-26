@@ -1,6 +1,9 @@
-# Todo List API in Python Flask
+# <img src="https://github.com/jesus-cano-ortega/js-introduction-exercises/blob/main/assets/resources/img/face.png" width="45" alt="Personal Logo"> Todo List API in Python Flask 
 
-<a href="https://www.breatheco.de"><img height="280" align="right" src="https://raw.githubusercontent.com/breatheco-de/python-flask-api-tutorial/3ffb90ea974146f57a3bdfd59665b4c4d5d05197/.breathecode/assets/badge.svg"></a>
+<p>
+  <a href="https://scarlet-yak-hkm8dtft.ws-eu29.gitpod.io/"><img src="https://raw.githubusercontent.com/4GeeksAcademy/react-hello/master/open-in-gitpod.svg?sanitize=true" />
+  </a>
+</p>
 
 This is an interactive tutorial that will teach you how to create an API using the Python Flask framework using Python and Pipenv.
 
@@ -60,4 +63,3 @@ And return the updated list of todos.
 ### DELETE /todos/<int:position>
 
 It's going to remove one todo based on a given position at the end of the url, and return the updated list of todos.
-
